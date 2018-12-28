@@ -8,9 +8,15 @@ These implementations includes:
 
 
 Data Structures
+
 Graph Algorithms
+
 Sorting Algorithms
+
 Greedy Algorithms
+
 Dynamic Algorithms
+
 Computational Geometry Algorithms
+
 ...
