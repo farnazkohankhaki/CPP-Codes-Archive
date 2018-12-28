@@ -6,21 +6,21 @@ Impelemtation of algorithms and problems of programming websites.(High School)
 
 
 ## Programming Websites:
--SGU
--Codeforces
--USACO
--Project Euler
--INOI
+- SGU
+- Codeforces
+- USACO
+- Project Euler
+- INOI
 
 
 ## Impelemtation of:
--Data Structures
--Graph Algorithms
--Sorting Algorithms
--Greedy Algorithms
--Dynamic Algorithms
--Computational Geometry Algorithms
--...
+- Data Structures
+- Graph Algorithms
+- Sorting Algorithms
+- Greedy Algorithms
+- Dynamic Algorithms
+- Computational Geometry Algorithms
+- ...
 
 ## Laguage
 C++
