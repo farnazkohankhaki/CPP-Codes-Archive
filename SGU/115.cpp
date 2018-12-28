@@ -1,0 +1,77 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int m,n,c;
+    cin>>n>>m;
+    if(m<13 && m>0 && n>0)
+    {
+        if(m==1)
+            if(n<32)
+                c=n%7;
+            else
+                cout<<"Impossible";
+        if(m==2)
+            if(n<29)
+                c=(31+n)%7;
+            else
+                cout<<"Impossible";
+        if(m==3)
+            if(n<32)
+                c=(28+31+n)%7;
+            else
+                cout<<"Impossible";
+        if(m==4)
+            if(n<31)
+                c=(2*31+28+n)%7;
+            else
+                cout<<"Impossible";
+        if(m==5)
+            if(n<32)
+                c=(2*31+30+28+n)%7;
+            else
+                cout<<"Impossible";
+        if(m==6)
+            if(n<31)
+                c=(3*31+30+28+n)%7;
+            else
+                cout<<"Impossible";
+        if(m==7)
+            if(n<32)
+                c=(3*31+2*30+28+n)%7;
+            else
+                cout<<"Impossible";
+        if(m==8)
+            if(n<32)
+                c=(4*31+2*30+28+n)%7;
+            else
+                cout<<"Impossible";
+        if(m==9)
+            if(n<31)
+                c=(5*31+2*30+28+n)%7;
+            else
+                cout<<"Impossible";
+        if(m==10)
+            if(n<32)
+                c=(5*31+3*30+28+n)%7;
+            else
+                cout<<"Impossible";
+        if(m==11)
+            if(n<31)
+                c=(6*31+3*30+28+n)%7;
+            else
+                cout<<"Impossible";
+        if(m==12)
+            if(n<32)
+                c=(6*31+4*30+28+n)%7;
+            else
+                cout<<"Impossible";
+    }
+    else
+        cout<<"Impossible";
+    if(c==0)
+        c=7;
+    cout<<c<<endl;
+    system("pause");
+    return 0;
+}
