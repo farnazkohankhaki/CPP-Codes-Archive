@@ -1,22 +1,26 @@
-# HSCA
-High School Algorithmic Codes: Programming Class, SGU, Codeforces, USACO, Project Euler, INOI
+# C++ Code - Archive
+High School Algorithmic Codes: Programming Class & Programming Websites
+
+## Description
+Impelemtation of algorithms and problems of programming websites.(High School)
 
 
+## Programming Websites:
+-SGU
+-Codeforces
+-USACO
+-Project Euler
+-INOI
 
-Impelemtation of algorithms and problems of programming websites.
-These implementations includes:
 
+## Impelemtation of:
+-Data Structures
+-Graph Algorithms
+-Sorting Algorithms
+-Greedy Algorithms
+-Dynamic Algorithms
+-Computational Geometry Algorithms
+-...
 
-Data Structures
-
-Graph Algorithms
-
-Sorting Algorithms
-
-Greedy Algorithms
-
-Dynamic Algorithms
-
-Computational Geometry Algorithms
-
-...
+## Laguage
+C++
