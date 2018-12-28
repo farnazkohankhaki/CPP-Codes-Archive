@@ -1,4 +1,4 @@
-# C++ Code - Archive
+# C++ Codes - Archive
 High School Algorithmic Codes: Programming Class & Programming Websites
 
 ## Description
@@ -22,5 +22,5 @@ Impelemtation of algorithms and problems of programming websites.(High School)
 - Computational Geometry Algorithms
 - ...
 
-## Laguage
+## Language
 C++
